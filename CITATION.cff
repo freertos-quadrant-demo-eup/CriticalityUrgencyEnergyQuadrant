@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite the associated paper."
+title: "FreeRTOS Energy-Urgency-Priority (EUP) Scheduler Demo"
+authors:
+  - family-names: "Shaik"
+    given-names: "Azad Mohammed"
+    email: "azad.mohammed@gmail.com"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Energy-Urgency-Priority Scheduling Framework: Battery-Aware Real-Time Control for Electric Vehicle ECUs"
+  authors:
+    - family-names: "Shaik"
+      given-names: "Azad Mohammed"
+  collection-title: "Proceedings of the International Conference on Emerging Trends in Engineering, Computing and Business Excellence (IC-ECBE 2026)"
+  year: 2026
+  month: 3
